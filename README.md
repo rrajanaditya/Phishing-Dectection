@@ -1,0 +1,1 @@
+A comparision between Deep Learning Models such as CNN, LSTM and an hybrid CNN-LSTM Model, with tradition Machine Learning Models such as Logistic Regression, Support Vector Machines, Random Forests, and etc.
